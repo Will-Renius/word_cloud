@@ -55,7 +55,11 @@ Or run [examples/masked.py][masked] to see more options. A sample output is:
 ![Alice in Wonderland](examples/alice.png)
 
 Getting fancy with some colors:
-![Parrot with rainbow colors](examples/parrot.png)
+![Parrot with rainbow colors](examples/parrot_new.png)
+
+Generating wordclouds for Arabic:
+
+![Arabic wordlcloud](examples/arabic_example.png)
 
 
 ## Command-line usage
